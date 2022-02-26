@@ -1,10 +1,7 @@
-# PI
-repositorio do meu PI
+# PIROCAS
+repositorio do meu PAU
 
-Repositorio com os arquivos do Projeto Integrador de conclusão de curso 
-do meu 3º ano do ensino medio integrado a Desenvolvimento de sistemas
+CU
 
-Este é um projeto de um jogo do tipo RPG de Ação baseados nos jogos da 
-franquia The Legend of Zelda apenas para praticaras habilidades do nosso 
-grupo.
+ROLON
 meu pau na sua mae

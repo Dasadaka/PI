@@ -4,4 +4,4 @@ repositorio do meu PAU
 CU
 
 ROLON
-meu pau na sua mae
+meu pau na sua mao
